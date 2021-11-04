@@ -1,6 +1,4 @@
-# Free Sanctions Lookup API 
 
-Periodic sanctions lookup of all customers is one of the basic steps any financial services company should follow to be compliant with various regulatory requirements.
 
 # API details
 
